@@ -14,7 +14,7 @@ KULMSの授業資料をまとめてダウンロードするためのアプリで
 
 ### 2. リポジトリのクローン
 ```bash
-git clone https://github.com/HaruhiroObora/KULMS.Local.git
+git clone https://github.com/lambda-haru/KULMS.Local.git
 cd KULMS.Local
 ```
 
